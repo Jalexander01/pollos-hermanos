@@ -36,6 +36,7 @@ this.state = {
 
      
       <div className="App">
+      <h1>Los pollos hermanos</h1>
         <Searchbox
             placeholder='search monster'
             handleChange= {this.handleChange}
